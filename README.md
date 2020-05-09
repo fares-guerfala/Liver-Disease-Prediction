@@ -1,6 +1,7 @@
 # Liver-Disease-Prediction
 In this project we will abstract explore and compare machine learning techniques and tools used to predict liver disease for patients utilizing a set of health data measurements. 
 This is the description of the data :
+
 ![49695858-c844fb00-fb66-11e8-91c2-f06fb06f8d7f](https://user-images.githubusercontent.com/57867070/81474385-5d896a80-9205-11ea-9c54-62b3aa879ffa.png)
 
 In first part we will focus on data analysis : 
@@ -17,7 +18,7 @@ In the second part we willfocus on Data Visualization :
 
 ![7](https://user-images.githubusercontent.com/57867070/81475553-477fa800-920d-11ea-8789-9e9f0ad528c2.PNG)
 ![8](https://user-images.githubusercontent.com/57867070/81475561-56665a80-920d-11ea-856a-0bb410adc077.PNG)
-![9](https://user-images.githubusercontent.com/57867070/81475566-5d8d6880-920d-11ea-8500-c7d735a889db.PNG)
+![9](https://user-images.githubusercontent.com/57867070/81476411-19509700-9212-11ea-8d62-483af72edaa9.PNG)
 
 ![10](https://user-images.githubusercontent.com/57867070/81475571-641be000-920d-11ea-84c9-a29efd530ae8.PNG)
 
