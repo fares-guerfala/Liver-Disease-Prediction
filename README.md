@@ -23,7 +23,7 @@ In the second part we will focus on Data Visualization :
 
 ![10](https://user-images.githubusercontent.com/57867070/81475571-641be000-920d-11ea-84c9-a29efd530ae8.PNG)
 
-In the third part we will intrested in the Machine Learning :
+In the third part we will intrested in the Machine Learning algorithms:
 
 ![11](https://user-images.githubusercontent.com/57867070/81476050-fd4bf600-920f-11ea-8e73-fd5535c0b5d7.PNG)
 ![12](https://user-images.githubusercontent.com/57867070/81476039-ead1bc80-920f-11ea-9deb-8002a584b0a8.PNG)
