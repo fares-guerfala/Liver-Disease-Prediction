@@ -9,7 +9,7 @@ In first part we will focus on data analysis :
 ![1](https://user-images.githubusercontent.com/57867070/81475220-2322cc00-920b-11ea-9ebb-e9456a6d4095.PNG)
 ![2](https://user-images.githubusercontent.com/57867070/81475227-2ae27080-920b-11ea-8652-46a49e1f7f45.PNG)
 
-In the second part we willfocus on Data Visualization :
+In the second part we will focus on Data Visualization :
 
 ![3](https://user-images.githubusercontent.com/57867070/81475541-3c2c7c80-920d-11ea-887a-0fb878ea3229.PNG)
 ![4](https://user-images.githubusercontent.com/57867070/81475544-3df64000-920d-11ea-8faa-c2ced1d45900.PNG)
