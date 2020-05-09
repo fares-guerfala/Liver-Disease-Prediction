@@ -1,5 +1,6 @@
 # Liver-Disease-Prediction
-In this project we will abstract explore and compare machine learning techniques and tools used to predict liver disease for patients utilizing a set of health data measurements. 
+In this project we will abstract explore and compare machine learning techniques and tools used to predict liver disease for patients utilizing a set of health data measurements.Also i used pandas_profiling to have an overview of the dataset you can have a look on the html file bellow .
+
 This is the description of the data :
 
 ![49695858-c844fb00-fb66-11e8-91c2-f06fb06f8d7f](https://user-images.githubusercontent.com/57867070/81474385-5d896a80-9205-11ea-9c54-62b3aa879ffa.png)
